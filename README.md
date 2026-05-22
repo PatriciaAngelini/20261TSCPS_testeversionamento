@@ -1,2 +1,2 @@
 # 20261TSCPS_testeversionamento
-Repositorio para ser clonado
+Repositorio para ser clonado da turma 1TSCPS
